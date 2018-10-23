@@ -1,0 +1,3 @@
+#/bin/bash do substraction 
+echo $(($1-$2))
+
